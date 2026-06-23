@@ -15,12 +15,12 @@ If sufficient privleges exist (root), and supported by the environment, the opti
 
 ## Situations and errors commonly seen include:
 
-        1. Searching is sluggish
+        1. Searching is sluggish or completely broken
         2. Database is malformed / damaged / corrupted
         3. Database has bloated from media addition or changes
-        4. Damaged indexes damaged
+        4. Damaged indexes
         5. Importing data from other databases (watch history)
-        6. Cleaning up operational temp files which PMS has forgotten to clean up
+        6. Cleaning up operational temp files which PMS has forgotten
 
 
 ## Functions provided
