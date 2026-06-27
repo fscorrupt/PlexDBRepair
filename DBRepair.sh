@@ -2,8 +2,8 @@
 #########################################################################
 # Database Repair Utility for Plex Media Server.                        #
 # Maintainer: ChuckPa                                                   #
-# Version:    v1.15.00                                                  #
-# Date:       02-Mar-2026                                               #
+# Version:    v1.16.00                                                  #
+# Date:       23-Jun-2026                                               #
 #########################################################################
 
 # Version for display purposes
